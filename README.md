@@ -38,14 +38,14 @@ Route Planner is a web application that utilizes the Google Maps API to help use
 6. Open the application in your browser at http://localhost:3000
 
 
-#Usage
+##Usage
 
 1. Access the application in your web browser.
 2. Enter the source location and multiple destination locations.
 3. Click the "Plan Route" button.
 4. The application will highlight the optimal path to visit all destinations efficiently on the map.
 
-#Note: 
+##Note: 
 Please note that in the installation section, you need to replace `your-api-key` with your actual Google Maps API key. Also, make sure to include the necessary error handling, user guidance, and additional features specific to your application.
 
 
