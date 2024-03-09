@@ -20,17 +20,21 @@ Route Planner is a web application that utilizes the Google Maps API to help use
    ```bash
    git clone https://github.com/Priyaanshu1923/Route-planner.git
 2. Change to the project directory:
-   cd route-planner
+    ```bash
+    cd route-planner
 3. Install dependencies using your preferred package manager:
-   npm install
+    ```bash
+    npm install
    # or
    yarn install
 4. Create a .env file in the root directory and add your Google Maps API key:
-   REACT_APP_GOOGLE_MAPS_API_KEY=your-api-key
+    ```bash
+    REACT_APP_GOOGLE_MAPS_API_KEY=your-api-key
 5. Start the development server:
-   npm start
-  # or
-  yarn start
+    ```bash
+    npm start
+    # or
+    yarn start
 
 
 
